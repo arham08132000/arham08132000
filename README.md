@@ -40,15 +40,23 @@ I build production AI systems that go beyond chatbots: **LangGraph multi-agent o
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Open-Source Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[AWS-AgentCore](https://github.com/arham08132000/AWS-AgentCore)** | Supervisor-routed **multi-agent assistant** that reads/searches Salesforce, Gmail & Outlook through tool-calling agents, with per-session memory. | LangGraph · Claude (Bedrock) · FastAPI |
-| **[K-Trade-Livekit](https://github.com/arham08132000/K-Trade-Livekit)** | **Real-time voice trading agent** — talk to it live in the browser. Streaming STT with turn detection + RAG over a vector store. | LiveKit · Deepgram · Gemini · Milvus |
+| **[realtime-voice-agent-starter](https://github.com/arham08132000/realtime-voice-agent-starter)** | A clean, provider-swappable **starter for real-time voice agents** — streaming STT, tool-calling LLM, natural TTS, RAG-ready. | LiveKit · Deepgram · Gemini |
 | **[NutriScore (FYP)](https://github.com/arham08132000/nutriscore-fyp)** | AI-powered food **nutrition tracking & scoring** system — my final year project. | Python · ML · Flutter |
 | **[Islamic-Pillars-KRR](https://github.com/arham08132000/Islamic-Pillars-KRR)** | **Ontology + NLP** knowledge representation & fact-checking system over religious texts. | Python · Ontology · NLP |
-| **[VoT — Voice AI Site](https://github.com/arham08132000/Website)** | Landing site where visitors **talk to a live voice agent** directly from the browser. | React · Vite · Deepgram Voice Agent |
+
+---
+
+## 💼 Selected Professional Work
+
+Production systems I designed and built end-to-end at **Catalect Consulting**. Source is proprietary / under NDA — happy to walk through the architecture and code in an interview.
+
+- **🎙️ Real-time voice trading agent** — live browser voice assistant on LiveKit with streaming Deepgram STT, Gemini reasoning, and Milvus RAG.
+- **🤖 Multi-agent business assistant** — LangGraph supervisor routing across Salesforce, Gmail & Outlook tool-agents on AWS Bedrock (Claude), served via FastAPI with per-session memory.
+- **🌐 Browser voice-AI platform (VoT)** — talk-to-a-live-agent web app (Deepgram Voice Agent API + Gemini), React/Vite on AWS Amplify.
 
 ---
 
