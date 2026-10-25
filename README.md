@@ -59,13 +59,6 @@ Production systems I designed and built end-to-end at **Catalect Consulting**. S
 
 ---
 
-## 📊 GitHub Activity
-
-![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arham08132000&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arham08132000&layout=compact&hide_border=true&langs_count=8)
-
----
-
 ## 📫 Let's Connect
 
 <!-- TODO: replace the placeholders below with your real links, then delete this comment -->
