@@ -2,12 +2,11 @@
 
 ### AI / Agentic Engineer — real-time voice agents, multi-agent systems & applied LLMs
 
-I build production AI systems that go beyond chatbots: **LangGraph multi-agent orchestration**, **real-time voice agents** (LiveKit · Deepgram · Gemini Live), and **retrieval-augmented** applications on AWS. I care about clean architecture, tool-using agents that actually take actions, and shipping things people can talk to.
+I build production AI systems that go beyond chatbots: **LangGraph multi-agent orchestration**, **real-time voice agents**, and **retrieval-augmented** applications on cloud. I care about clean architecture, tool-using agents that actually take actions, and shipping things people can talk to.
 
 - 🔭 Currently building real-time, tool-calling voice & multi-agent systems
 - 🧠 Focused on LLM orchestration, RAG, and agent evaluation
-- 🌱 Deepening my work with AWS Bedrock AgentCore and vector search at scale
-- 💬 Ask me about LangGraph, LiveKit voice agents, or wiring LLMs to real tools
+- 🌱 Deepening my work with Cloud Infrastructure and vector search at scale
 
 ---
 
@@ -70,9 +69,7 @@ Production systems I designed and built end-to-end at **Catalect Consulting**. S
 ## 📫 Let's Connect
 
 <!-- TODO: replace the placeholders below with your real links, then delete this comment -->
-- 💼 LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)
-- 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
-- 📄 Resume: [link to your resume PDF]
-- 📧 Email: your.personal@email.com
+- 💼 LinkedIn: [linkedin.com/in/arham-shahbaz](https://www.linkedin.com/in/arham-shahbaz-5332b3265/)
+- 📧 Email: arhamshahb6549@gmail.com
 
 <sub>Open to AI / Agentic Engineering roles.</sub>
