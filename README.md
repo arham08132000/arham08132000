@@ -2,7 +2,7 @@
 
 ### AI / Agentic Engineer — real-time voice agents, multi-agent systems & applied LLMs
 
-I build production AI systems that go beyond chatbots: **LangGraph multi-agent orchestration**, **real-time voice agents**, and **retrieval-augmented** applications on cloud. I care about clean architecture, tool-using agents that actually take actions, and shipping things people can talk to.
+I build production AI systems that go beyond chatbots: **multi-agent orchestration**, **real-time voice agents**, and **retrieval-augmented** applications on cloud. I care about clean architecture, tool-using agents that actually take actions, and shipping things people can talk to.
 
 - 🔭 Currently building real-time, tool-calling voice & multi-agent systems
 - 🧠 Focused on LLM orchestration, RAG, and agent evaluation
